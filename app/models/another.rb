@@ -7,17 +7,17 @@ class Another
     puts "foo"
   end
 
-  # @expires 2019-03-10
+  # @expire_chunk 2019-03-10
   # @deprecated but not yet deleted
   def bar
     puts "bar"
   end
-  # @end_expires
+  # @end_expire
 
-  # @expires 2019-02-10
+  # @expire_chunk 2019-02-10
   # @deprecated but not yet deleted
   def baz
     puts "baz"
   end
-  # @end_expires
+  # @end_expire
 end
