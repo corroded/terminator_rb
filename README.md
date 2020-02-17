@@ -1,3 +1,6 @@
+![terminator_rb](https://raw.githubusercontent.com/corroded/terminator_rb/master/logo/terminator_rb.svg?sanitize=true)
+=========
+
 # terminator_rb
 
 Automate your file/method deprecations with `terminator_rb`!
